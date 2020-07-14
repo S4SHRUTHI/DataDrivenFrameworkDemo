@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Data Driven Basics">
+  <test name="Bank Manager LoginTest">
+    <classes>
+      <class name="com.citiustech.testcases.BankManagerLoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Add Customer Test">
+    <classes>
+      <class name="com.citiustech.testcases.AddCustomerTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,6 @@
+07-12-2020 12:55:36 TestBase.java DEBUG [main] devpinoyLogger 49 - Config file loaded !!!
+07-12-2020 12:55:36 TestBase.java DEBUG [main] devpinoyLogger 53 - OR file loaded !!!
+07-12-2020 12:55:38 TestBase.java DEBUG [main] devpinoyLogger 59 - Chrome Launched !!!
+07-12-2020 12:55:40 TestBase.java DEBUG [main] devpinoyLogger 73 - Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+07-12-2020 12:55:40 LoginTest.java DEBUG [main] devpinoyLogger 14 - Inside Login Test
+07-12-2020 12:55:51 TestBase.java DEBUG [main] devpinoyLogger 98 - test execution completed !!
